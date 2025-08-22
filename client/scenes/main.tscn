@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://xyf6fh5c4i53"]
+
+[ext_resource type="Script" uid="uid://cxsube338vx0l" path="res://scripts/GrpcTest.cs" id="1_o5qli"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_o5qli")
